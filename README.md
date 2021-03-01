@@ -1,34 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center"><strong>Luvy</strong></h1>
 
-## Getting Started
+<h1>
+<img src="public/luvyapp.gif">
+</h1>
 
-First, run the development server:
+ <h3 align="center">
+<a href="https://luvy.vercel.app"> 🚀 Acessar a demonstração da LUVY</a></h3>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## 📖 ***Sobre***
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+O projeto *LUVY* é um aplicativo baseado na técnica de *Pomodoro*, onde você passa 25 minutos do seu tempo totalmente dedicado a cumprir uma tarefa, quando bater 25 minutos no seu relogio, você tem 5 minutos para relaxar, tomar um café/água, ou até mesmo revisar a tarefa cumprida.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Entenda mais sobre a técnica de pomodoro neste vídeo do [IlustradaMente](https://www.youtube.com/watch?v=hfxfJ7Qa4sg).
 
-## Learn More
+### ***O que é a técnica de pomodoro?***
 
-To learn more about Next.js, take a look at the following resources:
+A técnica se baseia na ideia de que dividindo o nosso fluxo de trabalho em blocos de concentração intensa, conseguimos melhorar a agilidade do cérebro e estimular nosso foco. Em outras palavras, melhoramos nossa gestão do tempo e ficamos mais eficientes.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Entenda mais neste artigo do [Wikipedia](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro).
+___
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 📌 Tecnologias utilizadas
 
-## Deploy on Vercel
+O projeto foi desenvolvido utilizando as seguintes tecnolgias
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [NodeJS](https://nodejs.org/en/)
+- [NextJS](https://nextjs.org/)
+- [ReactJS](Vhttps://pt-br.reactjs.org/)
+___
+💻 O projeto foi desenvolvido por Thiago Santos, com a ajuda do grupo [Rocketseat](https://rocketseat.com.br/) onde disponibilizam um evento 100% online e gratuito chamado, next level week (NLW).
